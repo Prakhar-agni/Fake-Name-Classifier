@@ -1,7 +1,8 @@
 # Fake-News-Classifier
 The main objective of doing this project was to get to know the techniques which are used for text analysis.
 Build a model and then deploy it using flask.
-##During the project I got to learn about :
+#
+During the project I got to learn about :
 -tokenization
 -lemmatization
 -stemmation
